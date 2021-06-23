@@ -381,7 +381,7 @@ Use the ``Deploy to IBM Cloud`` button **OR** run locally.
 
 ### Deploy to IBM Cloud
 
-[![Deploy to Bluemix](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/IBM/sms-analysis-with-wks)
+[![Deploy to Bluemix](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/abugowski/tm-sms)
 
 1. Press the above ``Deploy to IBM Cloud`` button and then click on ``Deploy``.
 

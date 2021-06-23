@@ -26,7 +26,7 @@
 					<a
 						href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/"
 						class="top-nav--logo-link"><h3 class="heading left">
-							IBM <span class="top-nav--logo-wdc">SMS analyzer</span>
+							IBM <span class="top-nav--logo-wdc">SMS analyzer by BUGI i Matek</span>
 						</h3></a>
 				</div>
 			</div>

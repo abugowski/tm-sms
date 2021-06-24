@@ -23,11 +23,9 @@
 		<div class="col-lg-12 service-header">
 			<div class="row top-nav navbar-fixed-top">
 				<div class="container">
-					<a
-						href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/"
-						class="top-nav--logo-link"><h3 class="heading left">
-							IBM <span class="top-nav--logo-wdc">SMS analyzer by BUGI i Matek</span>
-						</h3></a>
+					<h3 class="heading left">
+							SMS analyzer, Marcin Matkowski, Andrzej Bugowski
+						</h3>
 				</div>
 			</div>
 		</div>
